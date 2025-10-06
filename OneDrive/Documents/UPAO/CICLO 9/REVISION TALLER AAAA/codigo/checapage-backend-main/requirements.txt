@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+tensorflow
+numpy
+psycopg2-binary
+SQLAlchemy
+python-multipart
